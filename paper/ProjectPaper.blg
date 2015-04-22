@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ProjectPaper.aux
+The style file: plain.bst
+Database file #1: bib.bib
+Repeated entry---line 73 of file bib.bib
+ : @article{wang2012multiclass
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--empty year in russell13artificial
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            631 strings with 7405 characters,
+and the built_in function-call counts, 7559 in all, are:
+= -- 775
+> -- 318
+< -- 7
++ -- 130
+- -- 104
+* -- 531
+:= -- 1223
+add.period$ -- 67
+call.type$ -- 21
+change.case$ -- 113
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 292
+empty$ -- 596
+format.name$ -- 104
+if$ -- 1597
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 22
+newline$ -- 108
+num.names$ -- 42
+pop$ -- 107
+preamble$ -- 1
+purify$ -- 93
+quote$ -- 0
+skip$ -- 216
+stack$ -- 0
+substring$ -- 547
+swap$ -- 74
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 82
+warning$ -- 1
+while$ -- 80
+width$ -- 23
+write$ -- 235
+(There was 1 error message)

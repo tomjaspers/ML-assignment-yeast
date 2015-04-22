@@ -1,0 +1,123 @@
+\begin{thebibliography}{10}
+
+\bibitem{aha1991instance}
+David~W Aha, Dennis Kibler, and Marc~K Albert.
+\newblock Instance-based learning algorithms.
+\newblock {\em Machine learning}, 6(1):37--66, 1991.
+
+\bibitem{chawla2011smote}
+Nitesh~V. Chawla, Kevin~W. Bowyer, Lawrence~O. Hall, and W.~Philip Kegelmeyer.
+\newblock Smote: synthetic minority over-sampling technique.
+\newblock {\em arXiv preprint arXiv:1106.1813}, 2011.
+
+\bibitem{dash1997feature}
+Manoranjan Dash and Huan Liu.
+\newblock Feature selection for classification.
+\newblock {\em Intelligent data analysis}, 1(3):131--156, 1997.
+
+\bibitem{ertekin2007learning}
+Seyda Ertekin, Jian Huang, Leon Bottou, and Lee Giles.
+\newblock Learning on the border: active learning in imbalanced data
+  classification.
+\newblock In {\em Proceedings of the sixteenth ACM conference on Conference on
+  information and knowledge management}, pages 127--136. ACM, 2007.
+
+\bibitem{fawcett2006introduction}
+Tom Fawcett.
+\newblock An introduction to roc analysis.
+\newblock {\em Pattern recognition letters}, 27(8):861--874, 2006.
+
+\bibitem{hand2001simple}
+David~J Hand and Robert~J Till.
+\newblock A simple generalisation of the area under the roc curve for multiple
+  class classification problems.
+\newblock {\em Machine Learning}, 45(2):171--186, 2001.
+
+\bibitem{hospedales2013finding}
+Timothy~M Hospedales, Shaogang Gong, and Tao Xiang.
+\newblock Finding rare classes: Active learning with generative and
+  discriminative models.
+\newblock {\em Knowledge and Data Engineering, IEEE Transactions on},
+  25(2):374--386, 2013.
+
+\bibitem{japkowicz2002class}
+Nathalie Japkowicz and Shaju Stephen.
+\newblock The class imbalance problem: A systematic study.
+\newblock {\em Intelligent data analysis}, 6(5):429--449, 2002.
+
+\bibitem{kira1992feature}
+Kenji Kira and Larry~A Rendell.
+\newblock The feature selection problem: Traditional methods and a new
+  algorithm.
+\newblock In {\em AAAI}, pages 129--134, 1992.
+
+\bibitem{kononenko1994estimating}
+Igor Kononenko.
+\newblock Estimating attributes: analysis and extensions of relief.
+\newblock In {\em Machine Learning: ECML-94}, pages 171--182. Springer, 1994.
+
+\bibitem{kotsiantis2006handling}
+Sotiris Kotsiantis, Dimitris Kanellopoulos, Panayiotis Pintelas, et~al.
+\newblock Handling imbalanced datasets: A review.
+\newblock {\em GESTS International Transactions on Computer Science and
+  Engineering}, 30(1):25--36, 2006.
+
+\bibitem{mitchell1997machine}
+Tom~M Mitchell.
+\newblock Machine learning. 1997.
+\newblock {\em Burr Ridge, IL: McGraw Hill}, 45, 1997.
+
+\bibitem{quinlan1993c4}
+John~Ross Quinlan.
+\newblock {\em C4. 5: programs for machine learning}, volume~1.
+\newblock Morgan kaufmann, 1993.
+
+\bibitem{rissanen1978modeling}
+Jorma Rissanen.
+\newblock Modeling by shortest data description.
+\newblock {\em Automatica}, 14(5):465--471, 1978.
+
+\bibitem{procR}
+Xavier Robin, Natacha Turck, Alexandre Hainard, Natalia Tiberti, Frédérique
+  Lisacek, Jean-Charles Sanchez, and Markus Müller.
+\newblock proc: an open-source package for r and s+ to analyze and compare roc
+  curves.
+\newblock {\em BMC Bioinformatics}, 12:77, 2011.
+
+\bibitem{robnik2003theoretical}
+Marko Robnik-{\v{S}}ikonja and Igor Kononenko.
+\newblock Theoretical and empirical analysis of relieff and rrelieff.
+\newblock {\em Machine learning}, 53(1-2):23--69, 2003.
+
+\bibitem{russell13artificial}
+S~Russell and P~Norvig.
+\newblock Artificial intelligence, a modern approach, the intelligent agent
+  book. 2003.
+\newblock {\em ISBN: 0-13-080302-2}.
+
+\bibitem{sheinvald1990modeling}
+Jacob Sheinvald, Byron Dom, and Wayne Niblack.
+\newblock A modeling approach to feature selection.
+\newblock In {\em Pattern Recognition, 1990. Proceedings., 10th International
+  Conference on}, volume~1, pages 535--539. IEEE, 1990.
+
+\bibitem{sokolova2006beyond}
+Marina Sokolova, Nathalie Japkowicz, and Stan Szpakowicz.
+\newblock Beyond accuracy, f-score and roc: a family of discriminant measures
+  for performance evaluation.
+\newblock In {\em AI 2006: Advances in Artificial Intelligence}, pages
+  1015--1021. Springer, 2006.
+
+\bibitem{wang2012multiclass}
+Shuo Wang and Xin Yao.
+\newblock Multiclass imbalance problems: Analysis and potential solutions.
+\newblock {\em Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE
+  Transactions on}, 42(4):1119--1130, 2012.
+
+\bibitem{yang200610}
+Qiang Yang and Xindong Wu.
+\newblock 10 challenging problems in data mining research.
+\newblock {\em International Journal of Information Technology \& Decision
+  Making}, 5(04):597--604, 2006.
+
+\end{thebibliography}
